@@ -1,0 +1,272 @@
+[
+  {
+    "id": "alho_oleo_tradicional",
+    "name": "Alho e Óleo Tradicional",
+    "category": "alho_oleo",
+    "description": "Molho de tomate artesanal, alho frito dourado, azeite de oliva extra virgem e orégano.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "alho e oleo.png"
+  },
+  {
+    "id": "alho_oleo_bacon",
+    "name": "Alho e Óleo com Bacon",
+    "category": "alho_oleo",
+    "description": "Mussarela especial, alho frito dourado, bacon crocante em cubos e orégano.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "alho e óleo com bacon.png"
+  },
+  {
+    "id": "alho_oleo_parmesao",
+    "name": "Alho, Óleo e Parmesão",
+    "category": "alho_oleo",
+    "description": "Alho frito crocante, parmesão ralado gratinado, azeite de oliva e orégano.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "alho e oleo.png"
+  },
+  {
+    "id": "calabresa",
+    "name": "Calabresa Especial",
+    "category": "classicas",
+    "description": "Mussarela, calabresa defumada fatiada de alta qualidade, cebola fresca e orégano.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "calabresa especial.png"
+  },
+  {
+    "id": "mussarela",
+    "name": "Mussarela Clássica",
+    "category": "classicas",
+    "description": "Mussarela de búfala cremosa, rodelas de tomate fresco, azeite e orégano.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "marguerita.png"
+  },
+  {
+    "id": "marguerita",
+    "name": "Marguerita Gourmet",
+    "category": "classicas",
+    "description": "Mussarela, rodelas de tomate, folhas de manjericão fresco, parmesão e azeite.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "marguerita.png"
+  },
+  {
+    "id": "portuguesa",
+    "name": "Portuguesa Tradicional",
+    "category": "classicas",
+    "description": "Presunto cozido, ovos, cebola roxa, ervilha fresca, azeitonas pretas e mussarela.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "portuguesa tradicional.png"
+  },
+  {
+    "id": "frango_catupiry",
+    "name": "Frango com Catupiry",
+    "category": "classicas",
+    "description": "Frango desfiado temperado com ervas finas e requeijão cremoso tipo Catupiry.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "frango com catupiry.png"
+  },
+  {
+    "id": "napolitana",
+    "name": "Napolitana",
+    "category": "classicas",
+    "description": "Mussarela, rodelas de tomate fresco, alho frito crocante e queijo parmesão gratinado.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "napolitana.png"
+  },
+  {
+    "id": "presunto_queijo",
+    "name": "Presunto e Queijo",
+    "category": "classicas",
+    "description": "Mussarela selecionada, presunto cozido em cubos temperados e um toque de orégano.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "presunto e queijo.png"
+  },
+  {
+    "id": "milho_requeijao",
+    "name": "Milho com Requeijão",
+    "category": "classicas",
+    "description": "Mussarela, milho verde cozido no vapor e requeijão cremoso de alta qualidade.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "milho com requeijão.png"
+  },
+  {
+    "id": "palmito",
+    "name": "Palmito Especial",
+    "category": "classicas",
+    "description": "Mussarela, palmito picado premium super macio e orégano.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "palmito especial.png"
+  },
+  {
+    "id": "bacon_cheddar",
+    "name": "Bacon com Cheddar",
+    "category": "especiais",
+    "description": "Mussarela, bacon crocante em cubos selecionados e queijo cheddar cremoso.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "bacon e cheddar.png"
+  },
+  {
+    "id": "lombo_defumado",
+    "name": "Lombo Defumado",
+    "category": "especiais",
+    "description": "Mussarela, lombo defumado fatiado, cebola roxa e requeijão cremoso.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "lombo defumado.png"
+  },
+  {
+    "id": "quatro_queijos",
+    "name": "Quatro Queijos",
+    "category": "especiais",
+    "description": "Mussarela, requeijão cremoso, queijo provolone defumado e parmesão ralado.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "quatro queijos.png"
+  },
+  {
+    "id": "cinco_queijos",
+    "name": "Cinco Queijos",
+    "category": "especiais",
+    "description": "Mussarela, requeijão cremoso, provolone defumado, queijo gorgonzola e parmesão.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "quatro queijos.png"
+  },
+  {
+    "id": "rucula_tomate_seco",
+    "name": "Rúcula com Tomate Seco",
+    "category": "especiais",
+    "description": "Mussarela, rúcula fresca selecionada e tomates secos artesanais com azeite.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "rucula com tomate.png"
+  },
+  {
+    "id": "pepperoni",
+    "name": "Pepperoni Premium",
+    "category": "especiais",
+    "description": "Mussarela, fatias crocantes de pepperoni condimentado e um toque de orégano.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "pepperoni.png"
+  },
+  {
+    "id": "frango_cheddar",
+    "name": "Frango com Cheddar",
+    "category": "especiais",
+    "description": "Frango desfiado temperado com cheddar cremoso e milho verde cozido.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "frango com cheddar.png"
+  },
+  {
+    "id": "mexicana",
+    "name": "Mexicana Apimentada",
+    "category": "especiais",
+    "description": "Mussarela, calabresa moída picante, pimenta calabresa em flocos e pimentão verde.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "mexicana apimentada.png"
+  },
+  {
+    "id": "strogonoff_carne",
+    "name": "Strogonoff de Carne",
+    "category": "especiais",
+    "description": "Iscas de filé bovino ao molho de strogonoff cremoso, mussarela e batata palha fina.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "strogonoff de carne.png"
+  },
+  {
+    "id": "suprema",
+    "name": "Suprema Napier",
+    "category": "especiais",
+    "description": "Mussarela, bacon crocante, calabresa defumada, presunto cozido e cebola roxa.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "suprema napier.png"
+  },
+  {
+    "id": "brocolis_catupiry",
+    "name": "Brócolis com Catupiry",
+    "category": "vegetarianas",
+    "description": "Brócolis fresco temperado no alho, mussarela e requeijão cremoso tipo Catupiry.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "brócolis com catupiry.png"
+  },
+  {
+    "id": "abobrinha_grelhada",
+    "name": "Abobrinha Grelhada",
+    "category": "vegetarianas",
+    "description": "Abobrinha italiana fatiada e grelhada, mussarela, parmesão ralado e manjericão.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "abobrinha grelhada.png"
+  },
+  {
+    "id": "escarola",
+    "name": "Escarola Especial",
+    "category": "vegetarianas",
+    "description": "Escarola fresca refogada no alho, cebola, azeite de oliva e queijo mussarela.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "escarola com bacon.png"
+  },
+  {
+    "id": "tres_cogumelos",
+    "name": "Três Cogumelos",
+    "category": "vegetarianas",
+    "description": "Cogumelos Shimeji, Paris e Champignon salteados na manteiga de ervas e mussarela.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "três cogumelo.png"
+  },
+  {
+    "id": "brigadeiro_gourmet",
+    "name": "Brigadeiro Gourmet",
+    "category": "doces",
+    "description": "Chocolate cremoso ao leite gourmet com granulado de chocolate belga.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "brigadeiro.png"
+  },
+  {
+    "id": "romeu_julieta",
+    "name": "Romeu e Julieta",
+    "category": "doces",
+    "description": "Queijo mussarela especial coberto com goiabada cremosa artesanal cascão.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "romeu e julieta.png"
+  },
+  {
+    "id": "prestigio",
+    "name": "Prestígio",
+    "category": "doces",
+    "description": "Chocolate ao leite cremoso coberto com coco ralado úmido e leite condensado.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "brigadeiro.png"
+  },
+  {
+    "id": "banana_canela",
+    "name": "Banana com Canela",
+    "category": "doces",
+    "description": "Leite condensado cremoso, bananas frescas fatiadas, açúcar refinado e canela em pó.",
+    "priceBroto": 28.90,
+    "priceGrande": 38.90,
+    "image": "banana com canela.png"
+  }
+]
